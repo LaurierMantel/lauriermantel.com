@@ -1,6 +1,5 @@
 # lauriermantel.com
 
-index.php
 I made a single page web application using jQuery to control views of each section.  I used a BootStrap theme called Freelancer
 http://startbootstrap.com/template-overviews/freelancer/
 
